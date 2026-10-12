@@ -14,4 +14,4 @@
 4. コミットしてプッシュする
 5. プルリクエストを作る
 
-Wellcome to my first repository!
+Welcome to my first repository!
